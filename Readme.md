@@ -37,3 +37,6 @@ npm install -g allure-commandline --save-dev
 - run "npm run buildReport" on terminal to build report with framework allure
 - run "npm run runReport" on terminal to see report testing result via browser
 
+## Example allure report 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1d058220-6bb4-4b18-826d-14f1d9914cff">
+
